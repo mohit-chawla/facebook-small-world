@@ -26,10 +26,10 @@ In order to run our algorithm on the undirected Facebook graph (Gu), we need to 
 The algorithm was run times 101 times on the Facebook data, selecting two random nodes each time, to produce a rough average of the number of edge-disjoint paths that exist between two random nodes on the graph.
 The average of the number of edge-disjoint paths = 15
 
-![alt text](https://github.com/mohit-chawla/facebook-small-world/output/run_1_1.png "")
-![alt text](https://github.com/mohit-chawla/facebook-small-world/output/run_1_2.png "")
-![alt text](https://github.com/mohit-chawla/facebook-small-world/output/run_1_3.png "")
-![alt text](https://github.com/mohit-chawla/facebook-small-world/output/run_1_4.png "")
+![alt text](https://raw.githubusercontent.com/mohit-chawla/facebook-small-world/master/output/run_1_1.png "")
+![alt text](https://raw.githubusercontent.com/mohit-chawla/facebook-small-world/master/output/run_1_2.png "")
+![alt text](https://raw.githubusercontent.com/mohit-chawla/facebook-small-world/master/output/run_1_3.png "")
+![alt text](https://raw.githubusercontent.com/mohit-chawla/facebook-small-world/master/output/run_1_4.png "")
 ## Relevant Resources: 
 1. [Ford Fulkerson algorithm](https://en.wikipedia.org/wiki/Ford–Fulkerson_algorithm) 
 2. [Small World Experiment](https://en.wikipedia.org/wiki/Small-world_experiment)
